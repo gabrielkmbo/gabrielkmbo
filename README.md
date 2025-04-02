@@ -6,3 +6,5 @@
 - Currently researching @ Hazy and Scaling Labs in SAIL (NLP Group) focused on NLP, ML, and retrieval
 - I ❤️ building scalable full-stack projects, startups, and math/ML models
 - Feel free to visit my website [gabrielbo.com](https://gabrielbo.com) for more, or reach out to me directly at gabrielkmbo@gmail.com!
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielkmbo&show_icons=true&locale=en&layout=compact" alt="gabrielkmbo" /></p>
