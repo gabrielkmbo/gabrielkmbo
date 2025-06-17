@@ -5,7 +5,7 @@
 [![Hugging Face](https://img.shields.io/badge/-hf-05122A?style=flat-square&logo=Hugging-Face&logoColor=white&link=https://huggingface.co/gabrielbo)](https://huggingface.co/gabrielbo)
 
 - I’m studying CS @ Stanford with a concentration in AI & Systems
-- Currently researching @ Hazy and Scaling Labs in SAIL (NLP Group) focused on NLP, ML, and retrieval
+- Currently researching @ Hazy and Scaling Labs in SAIL focused on NLP, test-time compute, self-improving agents, and HPC.
 - I ❤️ building scalable full-stack projects, startups, and math/ML models
 - Feel free to visit my website [gabrielbo.com](https://gabrielbo.com) for more, or reach out to me directly at gabrielkmbo@gmail.com!
 
